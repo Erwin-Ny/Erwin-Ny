@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 📘 Student<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I produce beats, and work on my projects</p>
+<p align="left">- 📘 Student<br>- ⚡ In my free time I produce beats, and work on my projects</p>
 
 ###
 
